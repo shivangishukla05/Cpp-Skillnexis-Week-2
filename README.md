@@ -1,2 +1,2 @@
-# Cpp-Skillnexis1
+# Cpp-Skillnexis-WEEK2
 Assignment and practice question
